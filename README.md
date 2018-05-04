@@ -1,6 +1,7 @@
 # Assignment1: Digital natives
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GekQqFZm7mA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 Read The Problem with Digital "Natives" by Russell Potter and also go to Digital Natives, Digital Immigrants by Marc Prensky in case you need further background on the "digital immigrant" or "digital native" concepts.
 
